@@ -1,4 +1,4 @@
-# 📘 Data Structures & Algorithms Repository
+# 📘 DSA-Multilang: Data Structures & Algorithms Repository
 
 This repository is a curated collection of **Data Structures and Algorithms** implementations across multiple programming languages. It aims to serve as a personal learning notebook and a resource for others looking to understand or revise DSA fundamentals.
 
@@ -6,11 +6,11 @@ This repository is a curated collection of **Data Structures and Algorithms** im
 
 ## 🚀 Languages Planned
 
-- ✅ Java *(In Progress)*
-- ⏳ C
-- ⏳ C++
-- ⏳ Python
-- ⏳ JavaScript
+- ✅ <img src="assets/icons/java.svg" alt="java icon" width="15"/> Java *(In Progress)*
+- ⏳ <img src="assets/icons/clang.svg" alt="clang icon" width="15"/> C
+- ⏳ <img src="assets/icons/cpp.svg" alt="cpp icon" width="15"/> C++
+- ⏳ <img src="assets/icons/python.svg" alt="python icon" width="15"/> Python
+- ⏳ <img src="assets/icons/javascript.svg" alt="javascript icon" width="15"/> JavaScript
 
 ---
 
@@ -19,21 +19,22 @@ This repository is a curated collection of **Data Structures and Algorithms** im
 Each language will have its own folder, and inside that, topics will be categorized like:
 
 ```
-Language 
-    └──  Data Structures
-            └── Linear Data Structures
-                    └── Array
-                    └── Stack
-                    └── Queue
-            └── Non-Linear Data Structures
-            └── Algorithms
+Language\
+├─── Linear Data Structures\
+|     ├─── Array
+|     ├─── Stack
+|     └─── Queue
+├─── Non-Linear Data Structures\
+|     ├─── Tree
+|     └─── Graph
+└─── Algorithms\
 ```
 
 ---
 
 ## 📌 Currently Available
 
-### 🔹 <img src="assets/icons/java.svg" alt="java icon" width="20"/> Java
+### <img src="assets/icons/java.svg" alt="java icon" width="15"/> Java
 
 | Topic                     | Description                                      |
 |---------------------------|--------------------------------------------------|
@@ -55,7 +56,7 @@ More topics coming soon!
 
 ## 🏷️ Latest Release
 
-Check out [Releases](https://github.com/your-username/your-repo-name/releases) for versioned snapshots of progress.
+Check out [Releases](https://github.com/RupanSamanta/DSA-MultiLang/releases) for versioned snapshots of progress.
 
 ---
 
