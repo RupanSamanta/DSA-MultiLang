@@ -23,7 +23,8 @@ Language\
 ├─── Linear Data Structures\
 |     ├─── Array
 |     ├─── Stack
-|     └─── Queue
+|     ├─── Queue
+|     └─── Linked-List
 ├─── Non-Linear Data Structures\
 |     ├─── Tree
 |     └─── Graph
