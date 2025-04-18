@@ -1,37 +1,66 @@
+# 📘 Data Structures & Algorithms Repository
 
-# 🧠 DSA Multi-Language Practice
+This repository is a curated collection of **Data Structures and Algorithms** implementations across multiple programming languages. It aims to serve as a personal learning notebook and a resource for others looking to understand or revise DSA fundamentals.
 
-This repo contains my Data Structures and Algorithms code in **C, C++, Java, Python, and JavaScript**. I’ve solved problems across all core topics in each language to strengthen my logic-building skills and adaptability.
+---
 
-## 🗂️ Structure
+## 🚀 Languages Planned
+
+- ✅ Java *(In Progress)*
+- ⏳ C
+- ⏳ C++
+- ⏳ Python
+- ⏳ JavaScript
+
+---
+
+## 📂 Structure
+
+Each language will have its own folder, and inside that, topics will be categorized like:
 
 ```
-Language/
-├── Topic/
-│   ├── problem_name.ext
+Language 
+    └──  Data Structures
+            └── Linear Data Structures
+                    └── Array
+                    └── Stack
+                    └── Queue
+            └── Non-Linear Data Structures
+            └── Algorithms
 ```
 
-## 🧪 Languages Covered
+---
 
-- ✅ C
-- ✅ C++
-- ✅ Java
-- ✅ Python
-- ✅ JavaScript
+## 📌 Currently Available
 
-## 📌 Topics
+### 🔹 <img src="assets/icons/java.svg" alt="java icon" width="20"/> Java
 
-- Arrays
-- Strings
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
-- Recursion
-- Sorting & Searching
+| Topic                     | Description                                      |
+|---------------------------|--------------------------------------------------|
+| `Array`                   | Basics, declarations, traversals, updates       |
+| `Stack`                   | Using array (manual) and Java built-in stack    |
 
-## 👨‍💻 Author
+More topics coming soon!
 
-[Rupan](https://github.com/yourusername)
+---
 
-> 💬 Feel free to explore, fork, or star if you find this helpful!
+## 🎯 Purpose
+
+- Strengthen understanding of DSA concepts
+- Prepare for coding interviews and competitive programming
+- Maintain clean, readable, and well-commented code
+- Cross-language practice
+
+---
+
+## 🏷️ Latest Release
+
+Check out [Releases](https://github.com/your-username/your-repo-name/releases) for versioned snapshots of progress.
+
+---
+
+## 📧 Feedback / Contributions
+
+This is a personal learning project. However, if you want to suggest improvements, feel free to open issues or pull requests!
+
+---
