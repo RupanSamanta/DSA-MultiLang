@@ -6,11 +6,11 @@ This repository is a curated collection of **Data Structures and Algorithms** im
 
 ## 🚀 Languages Planned
 
-- ✅ <img src="assets/icons/java.svg" alt="java icon" width="15"/> Java *(In Progress)*
-- ⏳ <img src="assets/icons/clang.svg" alt="clang icon" width="15"/> C
-- ⏳ <img src="assets/icons/cpp.svg" alt="cpp icon" width="15"/> C++
-- ⏳ <img src="assets/icons/python.svg" alt="python icon" width="15"/> Python
-- ⏳ <img src="assets/icons/javascript.svg" alt="javascript icon" width="15"/> JavaScript
+✅ <img src="assets/icons/java.svg" alt="java icon" width="15"/> Java *(In Progress)* <br>
+⏳ <img src="assets/icons/clang.svg" alt="clang icon" width="15"/> C <br>
+⏳ <img src="assets/icons/cpp.svg" alt="cpp icon" width="15"/> C++ <br>
+⏳ <img src="assets/icons/python.svg" alt="python icon" width="15"/> Python <br>
+⏳ <img src="assets/icons/javascript.svg" alt="javascript icon" width="15"/> JavaScript
 
 ---
 
@@ -29,6 +29,8 @@ Language\
 |     ├─── Tree
 |     └─── Graph
 └─── Algorithms\
+      ├─── Sorting\
+      └─── Searching\
 ```
 
 ---
