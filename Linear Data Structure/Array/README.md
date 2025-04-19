@@ -15,8 +15,8 @@ An **array** is a linear data structure that consists of a finite, ordered set o
 
 | File Name              | Description                                               |
 |------------------------|-----------------------------------------------------------|
-| `ArrayBasics.java`     | Basic array operations: declaration, traversal, update    |
-| `ArrayDeclarations.java` | Various ways to declare and initialize arrays             |
+| `ArrayBasics`.ext     | Basic array operations: declaration, traversal, update    |
+| `ArrayDeclarations`.ext | Various ways to declare and initialize arrays             |
 
 ---
 
@@ -26,11 +26,3 @@ An **array** is a linear data structure that consists of a finite, ordered set o
 - Index-based access
 - Traversing arrays using `for` and `enhanced for` loops
 - Updating elements in an array
-
----
-
-## 🧪 How to Run
-
-```bash
-javac filename.java
-java filename
