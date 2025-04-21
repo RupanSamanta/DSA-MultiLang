@@ -15,8 +15,11 @@ An **array** is a linear data structure that consists of a finite, ordered set o
 
 | File Name              | Description                                               |
 |------------------------|-----------------------------------------------------------|
-| `ArrayBasics`.ext     | Basic array operations: declaration, traversal, update    |
-| `ArrayDeclarations`.ext | Various ways to declare and initialize arrays             |
+| `ArrayBasics`.ext     | Basic array program   |
+| `ArrayDeclarationsWays`.ext | Various ways to declare and initialize arrays             |
+| `ArrayTraversalWays`.ext |  Various ways of traversing through arrays      |
+| `ArrayAccessWays`.ext |  Different ways of accessing arrays                |
+| `ArrayMethods`.ext | Several in-built methods provided by each languages       |
 
 ---
 
