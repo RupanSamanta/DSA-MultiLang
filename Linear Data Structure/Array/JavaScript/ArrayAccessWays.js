@@ -13,3 +13,7 @@ console.log("Using forEach:");
 arr.forEach((element) => {
     console.log(element);
 });
+
+// Access using at method (ES2022)
+console.log("Using at(0):", arr.at(0)); // First element
+console.log("Using at(-1):", arr.at(-1)); // Last element
